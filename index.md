@@ -1,4 +1,4 @@
-Updates weekly!
+Welcome to Little Creature
 
 ## September 26, 2020
 
