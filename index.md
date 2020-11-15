@@ -1,5 +1,9 @@
 Welcome to Little Creature
 
+## November 15, 2020
+
+![#6](comics/six.jpeg)
+
 ## November 3, 2020
 
 ![#5](comics/five.jpeg)
